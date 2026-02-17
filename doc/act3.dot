@@ -1,0 +1,109 @@
+digraph G {
+  node [shape=Mrecord]
+
+  kurast_docks [
+    label="{𝐊𝐮𝐫𝐚𝐬𝐭 𝐃𝐨𝐜𝐤𝐬 (4)|Give Meshif the Jade Figurine (Quest: The Gold Bird)\lGive Alkor the Gold Bird (Quest: The Gold Bird)\lGive Ormus the Gidbinn (Quest: Blade of the Old Religion)\lGive Alkor Lam Esen's Tome (Quest:Lam Esen's Tome)\l}"
+  ]
+
+  spider_forest [
+    label="{𝐒𝐩𝐢𝐝𝐞𝐫 𝐅𝐨𝐫𝐞𝐬𝐭 (2)|First unique monster kill (Quest: The Gold Bird)\lSpider Forest Waypoint\l|{🎯|{Jungle Hunter 🆕|Sucker 🆕🌟|Thorned Hulk 🆕🌟|Fetish 🆕|Cloud Stalker 🆕}}}"
+  ]
+
+  arachnid_lair [
+    label="{𝐀𝐫𝐚𝐜𝐡𝐧𝐢𝐝 𝐋𝐚𝐢𝐫 (1)|Gold Chest (Arachnid Lair)\l|{🎯|{Poison Spinner|Flame Spider|Fiend|Giant Lamprey}}}"
+  ]
+
+  spider_cavern [
+    label="{𝐒𝐩𝐢𝐝𝐞𝐫 𝐂𝐚𝐯𝐞𝐫𝐧 (2)|Kill Sszark the Burning\lGold Chest (Spider Cavern)\l|{🎯|{Poison Spinner 🆕|Flame Spider 🆕|Fiend 🆕|Giant Lamprey 🆕}}}"
+  ]
+
+  great_marsh [
+    label="{𝐆𝐫𝐞𝐚𝐭 𝐌𝐚𝐫𝐬𝐡 (1)|Great Marsh Waypoint\l|{🎯|{Swamp Dweller 🆕🌟|Bog Creature 🆕|Bramble Hulk 🆕|Drowned Carcass 🆕|Fetish Shaman 🆕🌟|Fetish|Gloam 🆕🌟|River Stalker 🆕🌟}}}"
+  ]
+
+  flayer_jungle [
+    label="{𝐅𝐥𝐚𝐲𝐞𝐫 𝐉𝐮𝐧𝐠𝐥𝐞 (3)|Flayer Jungle Waypoint\lInteract with Gidbinn object\l|Kill Stormtree\l|{🎯|{Flayer 🆕|Flayer Shaman 🆕|Soul Killer 🆕|Soul Killer Shaman 🆕|Winged Nightmare 🆕|Slime Prince 🆕}}}"
+  ]
+
+  flayer_dungeon [
+    label="{𝐅𝐥𝐚𝐲𝐞𝐫 𝐃𝐮𝐧𝐠𝐞𝐨𝐧 (2)|Kill Witch Doctor Endugu\lGold Chest (Flayer Dungeon)\l|{🎯|{Flayer|Flayer Shaman|Soul Killer|Soul Killer Shaman|Gloombat 🆕|Dark Shape 🆕|Undead Flayer 🆕🌟|Water Watcher 🆕}}}"
+  ]
+
+  lower_kurast [
+    label="{𝐋𝐨𝐰𝐞𝐫 𝐊𝐮𝐫𝐚𝐬𝐭 (1)|Lower Kurast Waypoint\l|{🎯|{Doom Ape 🆕|Tree Lurker 🆕|Hell Buzzard 🆕|Zakarumite 🆕🌟}}}"
+  ]
+
+  swampy_pit [
+    label="{𝐒𝐰𝐚𝐦𝐩𝐲 𝐏𝐢𝐭 (1)|Gold Chest (Swampy Pit)\l|{🎯|{Preserved Dead 🆕|Undead Soul Killer 🆕|Fiend|Gloam|Undead Stygian Doll 🆕|Water Watcher|Drowned Carcass}}}"
+  ]
+
+  kurast_bazaar [
+    label="{𝐊𝐮𝐫𝐚𝐬𝐭 𝐁𝐚𝐳𝐚𝐚𝐫 (1)|Kurast Bazaar Waypoint\l|{🎯|{Thrasher 🆕|Hell Swarm 🆕|Faithful 🆕|Sexton 🆕🌟|Zakarumite}}}"
+  ]
+
+  sewers [
+    label="{𝐒𝐞𝐰𝐞𝐫𝐬 (2)|Kill Icehawk Riftwing\lGold Chest (Kurast Sewers)\l|{🎯|{Preserved Dead|Feeder 🆕|Gloombat|Horadrim Ancient 🆕|Horror|Undead Soul Killer|Stygian Watcher 🆕|Blood Wing 🆕|Slime Prince}}}"
+  ]
+
+  upper_kurast [
+    label="{𝐔𝐩𝐩𝐞𝐫 𝐊𝐮𝐫𝐚𝐬𝐭 (1)|Upper Kurast Waypoint\l|{🎯|{Winged Nightmare|Zealot 🆕|Cantor 🆕|Faithful|Thrasher}}}"
+  ]
+
+  ruined_temple [
+    label="{𝐑𝐮𝐢𝐧𝐞𝐝 𝐓𝐞𝐦𝐩𝐥𝐞 (2)|Kill Battlemaid Sarina\lRuined Temple Lectern (Quest: Lam Esen's Tome)\l|{🎯|{Wailing Beast 🆕|Flesh Hunter 🆕|Spider Magus 🆕|Night Lord 🆕}}}"
+  ]
+
+  disused_fane [
+    label="{𝐃𝐢𝐬𝐮𝐬𝐞𝐝 𝐅𝐚𝐧𝐞 (1)|Gold Chest (Disused Fane)\l|{🎯|{Wailing Beast|Flesh Hunter|Spider Magus|Night Lord}}}"
+  ]
+
+  kurast_causeway [
+    label="{𝐊𝐮𝐫𝐚𝐬𝐭 𝐂𝐚𝐮𝐬𝐞𝐰𝐚𝐲}}"
+  ]
+
+  forgotten_reliquary [
+    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐑𝐞𝐥𝐢𝐪𝐮𝐚𝐫𝐲 (1)|Gold Chest (Forgotten Reliquary)\l|{🎯|{Wailing Beast|Flesh Hunter|Spider Magus|Night Lord}}}"
+  ]
+
+  forgotten_temple [
+    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐓𝐞𝐦𝐩𝐥𝐞 (1)|Gold Chest (Forgotten Temple)\l|{🎯|{Serpent Magus 🆕|Bone Scarab 🆕|Blood Diver 🆕|Flesh Archer 🆕}}}"
+  ]
+
+  ruined_fane [
+    label="{𝐑𝐮𝐢𝐧𝐞𝐝 𝐅𝐚𝐧𝐞 (1)|Gold Chest (Ruined Fane)\l|{🎯|{Serpent Magus|Bone Scarab|Blood Diver|Flesh Archer}}}"
+  ]
+
+  travincal [
+    label="{𝐓𝐫𝐚𝐯𝐢𝐧𝐜𝐚𝐥 (5)|Travincal Waypoint\lKill Ismail Vilehand (Quest: The Blackened Temple)\lKill Geleb Flamefinger (Quest: The Blackened Temple)\lKill Toorc Icefist (Quest: The Blackened Temple)\lSmash the Compelling Orb (Quest: Khalim's Will)\l|{🎯|{Heirophant 🆕|Zealot|Night Lord|Water Watcher}}}"
+  ]
+
+  disused_reliquary [
+    label="{𝐃𝐢𝐬𝐮𝐬𝐞𝐝 𝐑𝐞𝐥𝐢𝐪𝐮𝐚𝐫𝐲 (1)|Gold Chest (Disused Reliquary)\l|{🎯|{Serpent Magus|Bone Scarab|Blood Diver|Flesh Archer}}}"
+  ]
+
+  durance_of_hate [
+    label="{𝐃𝐮𝐫𝐚𝐧𝐜𝐞 𝐨𝐟 𝐇𝐚𝐭𝐞 Levels 1-2 (1)|Durance of Hate Level 2 Waypoint\l|{🎯|{Cadaver 🆕|Dark Lord 🆕|Mauler 🆕|Undead Stygian Doll}}}"
+  ]
+
+  durance_of_hate_lv3 [
+    label="{𝐃𝐮𝐫𝐚𝐧𝐜𝐞 𝐨𝐟 𝐇𝐚𝐭𝐞 Level 3 (4)|Kill Bremm Sparkfist\lKill Wyand Voidbringer\lKill Maffer Dragonhand\lKill Mephisto (Quest: The Guardian)\l|{🎯|{Blood Lord 🆕}}}"
+  ]
+
+  kurast_docks -> spider_forest
+  spider_forest -> arachnid_lair, spider_cavern, great_marsh, flayer_jungle
+  great_marsh -> flayer_jungle
+  flayer_jungle -> swampy_pit, flayer_dungeon, lower_kurast
+  lower_kurast -> kurast_bazaar
+  kurast_bazaar -> upper_kurast, sewers, ruined_temple, disused_fane
+  upper_kurast -> kurast_causeway, sewers, forgotten_reliquary, forgotten_temple
+  kurast_causeway -> travincal, ruined_fane, disused_reliquary
+  travincal -> durance_of_hate [label="🔒"]
+  durance_of_hate -> durance_of_hate_lv3
+
+  durance_of_hate -> spider_cavern, flayer_dungeon, sewers [dir=back, style=dotted, label="logic", constraint=false]
+
+  legend [
+    labeljust="r"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐈𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n38 total\l\l🎯 = Killsanity (56)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (9)\l"
+  ]
+}

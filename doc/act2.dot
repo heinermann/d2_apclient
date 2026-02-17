@@ -31,7 +31,7 @@ digraph G {
   ]
 
   far_oasis [
-    label="{𝐅𝐚𝐫 𝐎𝐚𝐬𝐢𝐬 (2)|Far Oasis Waypoint\lKill Beetleburst\l|{🎯|{Black Raptor Nest 🆕|Black Raptor 🆕|Sand Maggot 🆕🌟|Sand Maggot Egg 🆕🌟|Sand Maggot Young 🆕🌟|Itchies 🆕🌟|Death Beetle 🆕|Undead Scavenger}}}"
+    label="{𝐅𝐚𝐫 𝐎𝐚𝐬𝐢𝐬 (2)|Far Oasis Waypoint\lKill Beetleburst\l|{🎯|{Black Raptor Nest 🆕|Black Raptor 🆕|Sand Maggot 🆕🌟|Itchies 🆕🌟|Death Beetle 🆕|Undead Scavenger}}}"
   ]
 
   lost_city [
@@ -39,7 +39,7 @@ digraph G {
   ]
 
   maggot_lair [
-    label="{𝐌𝐚𝐠𝐠𝐨𝐭 𝐋𝐚𝐢𝐫 (2)|Kill Coldworm the Burrower\lGold Chest (Maggot Lair)\l|{🎯|{Sand Maggot|Sand Maggot Egg|Sand Maggot Young|Rock Worm 🆕|Rock Worm Egg 🆕|Rock Worm Young 🆕|Black Locusts 🆕|Death Beetle|Scarab 🆕}}}"
+    label="{𝐌𝐚𝐠𝐠𝐨𝐭 𝐋𝐚𝐢𝐫 (2)|Kill Coldworm the Burrower\lGold Chest (Maggot Lair)\l|{🎯|{Sand Maggot|Rock Worm 🆕|Black Locusts 🆕|Death Beetle|Scarab 🆕}}}"
   ]
 
   ancient_tunnels [
@@ -67,7 +67,7 @@ digraph G {
   ]
 
   canyon_of_the_magi [
-    label="{𝐂𝐚𝐧𝐲𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐌𝐚𝐠𝐢 (1)|Canyon of the Magi Waypoint\l|{🎯|{Crusher 🆕|Devourer 🆕|Devourer Egg 🆕|Devourer Young 🆕|Hell Cat 🆕|Steel Scarab 🆕|Hell Slinger 🆕}}}"
+    label="{𝐂𝐚𝐧𝐲𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐌𝐚𝐠𝐢 (1)|Canyon of the Magi Waypoint\l|{🎯|{Crusher 🆕|Devourer 🆕|Hell Cat 🆕|Steel Scarab 🆕|Hell Slinger 🆕}}}"
   ]
 
   tal_rashas_tomb [
