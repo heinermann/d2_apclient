@@ -1,0 +1,97 @@
+digraph G {
+  node [shape=Mrecord]
+
+  invis1 [style=invis]
+  invis2 [style=invis]
+  invis3 [style=invis]
+  invis4 [style=invis]
+
+  lut_gholein [
+    label="{𝐋𝐮𝐭 𝐆𝐡𝐨𝐥𝐞𝐢𝐧}"
+  ]
+
+  rocky_waste [
+    label="{𝐑𝐨𝐜𝐤𝐲 𝐖𝐚𝐬𝐭𝐞 (0)|{🎯|{Sand Leaper 🆕🌟|Huntress|Dung Soldier 🆕🌟|Carrion Bird 🆕🌟|Slinger 🆕🌟}}}"
+  ]
+
+  sewers [
+    label="{𝐒𝐞𝐰𝐞𝐫𝐬 (3)|Sewers Level 2 Waypoint\lKill Radament (Quest: Radament's Lair)\lGold Chest (Sewers)\l|{🎯|{Burning Dead 🆕|Sand Raider 🆕🌟|Dried Corpse 🆕🌟|Burning Dead Archer 🆕|Huntress 🆕🌟|Burning Dead Mage 🆕|Horror 🆕}}}"
+  ]
+
+  stony_tomb [
+    label="{𝐒𝐭𝐨𝐧𝐲 𝐓𝐨𝐦𝐛 (2)|Kill Creeping Feature\lGold Chest (Stony Tomb)\l|{🎯|{Horror|Dung Soldier|Burning Dead Mage}}}"
+  ]
+
+  dry_hills [
+    label="{𝐃𝐫𝐲 𝐇𝐢𝐥𝐥𝐬 (1)|Dry Hills Waypoint\l|{🎯|{Cave Leaper 🆕|Saber Cat 🆕|Undead Scavenger 🆕|Spear Cat 🆕}}}"
+  ]
+
+  halls_of_the_dead [
+    label="{𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐃𝐞𝐚𝐝 (3)|Halls of the Dead Level 2 Waypoint\lKill Bloodwitch the Wild\lGold Chest (Halls of the Dead)\l|{🎯|{Decayed 🆕|Hollow One 🆕🌟|Returned|Desert Wing 🆕🌟|Spear Cat|Mummy Sarcophagus 🆕🌟|Dried Corpse|Fire Tower 🆕🌟}}}"
+  ]
+
+  far_oasis [
+    label="{𝐅𝐚𝐫 𝐎𝐚𝐬𝐢𝐬 (2)|Far Oasis Waypoint\lKill Beetleburst\l|{🎯|{Black Raptor Nest 🆕|Black Raptor 🆕|Sand Maggot 🆕🌟|Sand Maggot Egg 🆕🌟|Sand Maggot Young 🆕🌟|Itchies 🆕🌟|Death Beetle 🆕|Undead Scavenger}}}"
+  ]
+
+  lost_city [
+    label="{𝐋𝐨𝐬𝐭 𝐂𝐢𝐭𝐲 (2)|Lost City Waypoint\lKill Dark Elder\l|{🎯|{Plague Bearer 🆕|Marauder 🆕🌟|Tomb Creeper 🆕|Night Tiger 🆕|Night Slinger 🆕|Fire Tower}}}"
+  ]
+
+  maggot_lair [
+    label="{𝐌𝐚𝐠𝐠𝐨𝐭 𝐋𝐚𝐢𝐫 (2)|Kill Coldworm the Burrower\lGold Chest (Maggot Lair)\l|{🎯|{Sand Maggot|Sand Maggot Egg|Sand Maggot Young|Rock Worm 🆕|Rock Worm Egg 🆕|Rock Worm Young 🆕|Black Locusts 🆕|Death Beetle|Scarab 🆕}}}"
+  ]
+
+  ancient_tunnels [
+    label="{𝐀𝐧𝐜𝐢𝐞𝐧𝐭 𝐓𝐮𝐧𝐧𝐞𝐥𝐬 (1)|Gold Chest (Ancient Tunnels)\l|{🎯|{Plague Bearer|Invader 🆕|Embalmed 🆕|Horror Mage 🆕}}}"
+  ]
+
+  valley_of_snakes [
+    label="{𝐕𝐚𝐥𝐥𝐞𝐲 𝐨𝐟 𝐒𝐧𝐚𝐤𝐞𝐬 (0)|{🎯|{Fire Tower}}}"
+  ]
+
+  claw_viper_temple [
+    label="{𝐂𝐥𝐚𝐰 𝐕𝐢𝐩𝐞𝐫 𝐓𝐞𝐦𝐩𝐥𝐞 (2)|Kill Fangskin\lSmash the Tainted Sun Altar (Quest: The Tainted Sun)\l|{🎯|{Claw Viper 🆕🌟|Salamander 🆕|Embalmed|Guardian 🆕|Bone Warrior 🆕|Mummy Sarcophagus|Dried Corpse}}}"
+  ]
+
+  harem [
+    label="{𝐇𝐚𝐫𝐞𝐦 (0)|{🎯|{Invader|Dune Beast 🆕🌟|Horror Archer 🆕|Blunderbore 🆕🌟|Horror Mage}}}"
+  ]
+
+  palace_cellar [
+    label="{𝐏𝐚𝐥𝐚𝐜𝐞 𝐂𝐞𝐥𝐥𝐚𝐫 (2)|Palace Cellar level 1 Waypoint\lKill Fire Eye\l|{🎯|{Invader|Dune Beast|Horror Archer|Blunderbore|Horror Mage}}}"
+  ]
+
+  arcane_sanctuary [
+    label="{𝐀𝐫𝐜𝐚𝐧𝐞 𝐒𝐚𝐧𝐜𝐭𝐮𝐚𝐫𝐲 (3)|Arcane Sanctuary Waypoint\lKill The Summoner (Quest: The Summoner)\lRead Horazon's Journal (Quest: The Arcane Sanctuary)\l|{🎯|{Specter 🆕|Hell Clan 🆕|Ghoul Lord 🆕|Lightning Spire 🆕🌟}}}"
+  ]
+
+  canyon_of_the_magi [
+    label="{𝐂𝐚𝐧𝐲𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐌𝐚𝐠𝐢 (1)|Canyon of the Magi Waypoint\l|{🎯|{Crusher 🆕|Devourer 🆕|Devourer Egg 🆕|Devourer Young 🆕|Hell Cat 🆕|Steel Scarab 🆕|Hell Slinger 🆕}}}"
+  ]
+
+  tal_rashas_tomb [
+    label="{𝐓𝐚𝐥 𝐑𝐚𝐬𝐡𝐚'𝐬 𝐓𝐨𝐦𝐛 (3)|Kill Ancient Kaa the Soulless (too obscure?)\lKill Duriel\lTalk to Tyrael\l|{🎯|{Apparition 🆕|Steel Scarab|Preserved Dead 🆕|Unraveler 🆕|Burning Dead|Ghoul Lord|Gorebelly 🆕|Mummy Sarcophagus|Dried Corpse|Fire Tower}}}"
+  ]
+
+  lut_gholein -> sewers, rocky_waste
+  lut_gholein -> harem [label="🔒"]
+  rocky_waste -> stony_tomb, dry_hills
+  rocky_waste -> invis1 [style=invis]
+  dry_hills -> halls_of_the_dead, far_oasis
+  dry_hills -> invis2 [style=invis]
+  far_oasis -> maggot_lair, lost_city
+  lost_city -> ancient_tunnels, valley_of_snakes
+  valley_of_snakes -> claw_viper_temple
+  harem -> palace_cellar
+  palace_cellar -> arcane_sanctuary [label="🌀"]
+  arcane_sanctuary -> canyon_of_the_magi [label="🌀"]
+  canyon_of_the_magi -> tal_rashas_tomb
+
+  harem -> halls_of_the_dead, maggot_lair, claw_viper_temple  [dir=back, style=dotted, label="logic", constraint=false]
+
+  legend [
+    labeljust="r"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n27 total\l\l🎯 = Killsanity (62)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (20)\l"
+  ]
+}
