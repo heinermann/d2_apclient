@@ -1,0 +1,125 @@
+digraph G {
+  node [shape=Mrecord]
+
+  harrogath [
+    label="{Harrogath}"
+  ]
+
+  nihlathaks_temple [
+    label="{𝐍𝐢𝐡𝐥𝐚𝐭𝐡𝐚𝐤'𝐬 𝐓𝐞𝐦𝐩𝐥𝐞 (1)|Kill Pindleskin\l|{🎯|{Prowling Dead 🆕}}}"
+  ]
+
+  halls_of_anguish [
+    label="{𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐀𝐧𝐠𝐮𝐢𝐬𝐡 (0)|{🎯|{Prowling Dead|Night Lord}}}"
+  ]
+
+  halls_of_pain [
+    label="{𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐏𝐚𝐢𝐧 (1)|Halls of Pain Waypoint\l|{🎯|{Unholy Corpse 🆕|Death Brawler 🆕|Putrid Defiler 🆕🌟|Torment Worm 🆕🌟}}}"
+  ]
+
+  halls_of_vaught [
+    label="{𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐕𝐚𝐮𝐠𝐡𝐭 (1)|Kill Nihlathak\l|{🎯|{Ice Spawn 🆕|Hell Temptress 🆕|Wretched Defiler 🆕|Menace Worm 🆕}}}"
+  ]
+
+  bloody_foothills [
+    label="{𝐁𝐥𝐨𝐨𝐝𝐲 𝐅𝐨𝐨𝐭𝐡𝐢𝐥𝐥𝐬 (2)|Kill Dac Farren\lKill Shenk the Overseer (Quest: Siege on Harrogath)\l|{🎯|{Enslaved 🆕🌟|Death Mauler 🆕🌟|Catapult 🆕🌟}}}"
+  ]
+
+  frigid_highlands [
+    label="{𝐅𝐫𝐢𝐠𝐢𝐝 𝐇𝐢𝐠𝐡𝐥𝐚𝐧𝐝𝐬 (7)|Frigid Highlands Waypoint\lFree Barbarian Pen 1 (Quest: Rescue on Mount Arreat)\lFree Barbarian Pen 2 (Quest: Rescue on Mount Arreat)\lFree Barbarian Pen 3 (Quest: Rescue on Mount Arreat)\lKill Eyeback the Unleashed\lKill Eldritch the Rectifier\lKill SHarptooth Slayer\l|{🎯|{Demon Imp 🆕🌟|Crush Beast 🆕🌟|Demon Rascal 🆕|Catapult|Evil Demon Hut 🆕🌟}}}"
+  ]
+
+  abaddon [
+    label="{𝐀𝐛𝐚𝐝𝐝𝐨𝐧 (1)|Gold Chest (Abaddon)\l|{🎯|{Blood Lord 🆕🌟|Demon Rascal 🆕}}}"
+  ]
+
+  arreat_plateau [
+    label="{𝐀𝐫𝐫𝐞𝐚𝐭 𝐏𝐥𝐚𝐭𝐞𝐚𝐮 (2)|Arreat Plateau Waypoint\lKill Thresh Socket\l|{🎯|{Lasher 🆕🌟|Slayer 🆕|Catapult|Evil Demon Hut|Demon Imp 🆕|Demon Gremlin 🆕}}}"
+  ]
+
+  pit_of_acheron [
+    label="{𝐏𝐢𝐭 𝐨𝐟 𝐀𝐜𝐡𝐞𝐫𝐨𝐧 (1)|Gold Chest (Pit of Acheron)\l|{🎯|{Night Lord 🆕|Overlord 🆕|Ice Boar 🆕}}}"
+  ]
+
+  crystalline_passage [
+    label="{𝐂𝐫𝐲𝐬𝐭𝐚𝐥𝐥𝐢𝐧𝐞 𝐏𝐚𝐬𝐬𝐚𝐠𝐞 (1)|Crystalline Passage Waypoint\l|{🎯|{Frozen Creeper 🆕🌟|Stygian Harlot 🆕🌟|Moon Lord 🆕}}}"
+  ]
+
+  frozen_river [
+    label="{𝐅𝐫𝐨𝐳𝐞𝐧 𝐑𝐢𝐯𝐞𝐫 (3)|Kill Frozenstein\lTalk to Anya (Quest: Prison of Ice)\lUse Malah's Potion on Anya (Quest: Prison of Ice)\l|{🎯|{Abominable 🆕🌟|Blood Temptress 🆕|Rot Walker 🆕🌟}}}"
+  ]
+
+  glacial_trail [
+    label="{𝐆𝐥𝐚𝐜𝐢𝐚𝐥 𝐓𝐫𝐚𝐢𝐥 (3)|Glacial Trail Waypoint\lKill Bonesaw Breaker\lGold Chest (Glacial Trail)\l|{🎯|{Death Slasher 🆕|Reanimated Horde 🆕|Frozen Terror 🆕}}}"
+  ]
+
+  drifter_cavern [
+    label="{𝐃𝐫𝐢𝐟𝐭𝐞𝐫 𝐂𝐚𝐯𝐞𝐫𝐧 (1)|Gold Chest (Drifter Cavern)\l|{🎯|{Snow Drifter 🆕|Vile Temptress 🆕}}}"
+  ]
+
+  frozen_tundra [
+    label="{𝐅𝐫𝐨𝐳𝐞𝐧 𝐓𝐮𝐧𝐝𝐫𝐚 (1)|Frozen Tundra Waypoint\l|{🎯|{Crush Beast|Demon Rascal|Demon Trickster 🆕|Catapult}}}"
+  ]
+
+  infernal_pit [
+    label="{𝐈𝐧𝐟𝐞𝐫𝐧𝐚𝐥 𝐏𝐢𝐭 (1)|Gold Chest (Infernal Pit)\l|{🎯|{Demon Trickster|Blood Boss 🆕|Fire Boar 🆕}}}"
+  ]
+
+  ancients_way [
+    label="{𝐀𝐧𝐜𝐢𝐞𝐧𝐭𝐬' 𝐖𝐚𝐲 (1)|Ancients' Way Waypoint\l|{🎯|{Frozen Scourge 🆕|Death Slasher|Moon Lord}}}"
+  ]
+
+  icy_cellar [
+    label="{𝐈𝐜𝐲 𝐂𝐞𝐥𝐥𝐚𝐫 (2)|Kill Snapchip Shatter\lGold Chest (Icy Cellar)\l|{🎯|{Frozen Abyss 🆕|Stygian Hariot 🆕|Prowling Dead 🆕}}}"
+  ]
+
+  arreat_summit [
+    label="{𝐀𝐫𝐫𝐞𝐚𝐭 𝐒𝐮𝐦𝐦𝐢𝐭 (3)|Kill Talic (Quest: Rite of Passage)\lKill Madawc (Quest: Rite of Passage)\lKill Korlic (Quest: Rite of Passage)\l}"
+  ]
+
+  worldstone_keep [
+    label="{𝐖𝐨𝐫𝐥𝐝𝐬𝐭𝐨𝐧𝐞 𝐊𝐞𝐞𝐩 (1)|Worldstone Keep level 2 Waypoint\l|{🎯|{Defiled Warrior 🆕|Vile Witch 🆕|Fetid Defiler 🆕|Frenzied ice Spawn 🆕|Greater Hell Spawn 🆕|Death Lord 🆕|Demon Sprite 🆕|Rancid Defiler 🆕}}}"
+  ]
+
+  throne_of_destruction [
+    label="{𝐓𝐡𝐫𝐨𝐧𝐞 𝐨𝐟 𝐃𝐞𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧 (5)|Kill Colenzo the Annihilator\lKill Achmel the Cursed\lKill Bartuc the Bloody\lKill Ventar the Unholy\lKill Lister the Tormentor\l|{🎯|{Death Lord|Stygian Fury 🆕|Warped One 🆕}}}"
+  ]
+
+  worldstone_chamber [
+    label="{𝐖𝐨𝐫𝐥𝐝𝐬𝐭𝐨𝐧𝐞 𝐂𝐡𝐚𝐦𝐛𝐞𝐫 (1)|Kill Baal\l}"
+  ]
+
+  invis1 [style=invis]
+  invis2 [style=invis]
+  invis3 [style=invis]
+  invis4 [style=invis]
+  invis5 [style=invis]
+  invis6 [style=invis]
+
+  harrogath -> bloody_foothills
+  harrogath -> nihlathaks_temple [label="🔒🌀"]
+  nihlathaks_temple -> halls_of_anguish -> halls_of_pain -> halls_of_vaught
+  bloody_foothills -> frigid_highlands
+  frigid_highlands -> arreat_plateau, abaddon
+  arreat_plateau -> pit_of_acheron, crystalline_passage
+  crystalline_passage-> glacial_trail, frozen_river
+  glacial_trail -> frozen_tundra, drifter_cavern
+  frozen_tundra -> infernal_pit, ancients_way
+  ancients_way -> icy_cellar, arreat_summit
+  arreat_summit -> worldstone_keep [label="🔒"]
+  worldstone_keep -> throne_of_destruction -> worldstone_chamber
+
+  frigid_highlands -> invis1 [style=invis]
+  arreat_plateau -> invis2 [style=invis]
+  crystalline_passage -> invis3 [style=invis]
+  glacial_trail -> invis4 [style=invis]
+  frozen_tundra -> invis5 [style=invis]
+  ancients_way -> invis6 [style=invis]
+
+  nihlathaks_temple -> frozen_river [dir=back, style=dotted, label="logic", constraint=false]
+
+  legend [
+    labeljust="r"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐕 𝐂𝐡𝐞𝐜𝐤𝐬\n37 total\l\l🎯 = Killsanity (53)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (14)\l"
+  ]
+}

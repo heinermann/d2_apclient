@@ -2,11 +2,11 @@ digraph G {
   node [shape=Mrecord]
 
   pandemonium_fortress [
-    label="{𝐏𝐚𝐧𝐝𝐞𝐦𝐨𝐧𝐢𝐮𝐦 𝐅𝐨𝐫𝐭𝐫𝐞𝐬𝐬 (0)|}"
+    label="{𝐏𝐚𝐧𝐝𝐞𝐦𝐨𝐧𝐢𝐮𝐦 𝐅𝐨𝐫𝐭𝐫𝐞𝐬𝐬}"
   ]
 
   outer_steppes [
-    label="{𝐎𝐮𝐭𝐞𝐫 𝐒𝐭𝐞𝐩𝐩𝐞𝐬 (0)|{🎯|{Cliff Lurker 🆕|Flesh Spawner 🆕🌟|Flesh Beast 🆕🌟|Doom Caster 🆕🌟|Corpulant 🆕🌟|Doom Knight 🆕🌟|Venom Lord 🆕🌟|Trapped Soul 🆕🌟}}}"
+    label="{𝐎𝐮𝐭𝐞𝐫 𝐒𝐭𝐞𝐩𝐩𝐞𝐬|{🎯|{Cliff Lurker 🆕|Flesh Spawner 🆕🌟|Flesh Beast 🆕🌟|Doom Caster 🆕🌟|Corpulant 🆕🌟|Doom Knight 🆕🌟|Venom Lord 🆕🌟|Trapped Soul 🆕🌟}}}"
   ]
 
   plains_of_despair [
