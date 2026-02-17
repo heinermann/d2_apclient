@@ -1,0 +1,34 @@
+digraph G {
+  node [shape=Mrecord]
+
+  pandemonium_fortress [
+    label="{𝐏𝐚𝐧𝐝𝐞𝐦𝐨𝐧𝐢𝐮𝐦 𝐅𝐨𝐫𝐭𝐫𝐞𝐬𝐬 (0)|}"
+  ]
+
+  outer_steppes [
+    label="{𝐎𝐮𝐭𝐞𝐫 𝐒𝐭𝐞𝐩𝐩𝐞𝐬 (0)|{🎯|{Cliff Lurker 🆕|Flesh Spawner 🆕🌟|Flesh Beast 🆕🌟|Doom Caster 🆕🌟|Corpulant 🆕🌟|Doom Knight 🆕🌟|Venom Lord 🆕🌟|Trapped Soul 🆕🌟}}}"
+  ]
+
+  plains_of_despair [
+    label="{𝐏𝐥𝐚𝐢𝐧𝐬 𝐨𝐟 𝐃𝐞𝐬𝐩𝐚𝐢𝐫 (1)|Kill Izual (Quest: The Fallen Angel)\l|{🎯|{Burning Soul 🆕|Flesh Spawner|Flesh Beast|Doom Caster|Corpulant|Doom Knight|Venom Lord|Trapped Soul}}}"
+  ]
+
+  city_of_the_damned [
+    label="{𝐂𝐢𝐭𝐲 𝐨𝐟 𝐭𝐡𝐞 𝐃𝐚𝐦𝐧𝐞𝐝 (1)|City of the Damned Waypoint\l|{🎯|{Damned 🆕|Dark Familiar 🆕|Stygian Hag 🆕|Stygian Dog 🆕|Strangler 🆕|Corpse Spitter 🆕|Abyss Knight 🆕|Pit Lord 🆕}}}"
+  ]
+
+  river_of_flame [
+    label="{𝐑𝐢𝐯𝐞𝐫 𝐨𝐟 𝐅𝐥𝐚𝐦𝐞 (3)|Kill Hephasto the Armorer (Quest: Hell's Forge)\lDestroy Mephisto's Soulstone (Quest: Hell's Forge)\lRiver of Flame Waypoint\l|{🎯|{Blood Maggot 🆕|Blood Maggot Egg 🆕|Blood Maggot Young 🆕|Urdar 🆕|Grotesque 🆕|Grotesque Wyrm 🆕|Strangler|Maw Fiend 🆕|Abyss Knight|Pit Lord}}}"
+  ]
+
+  chaos_sanctuary [
+    label="{𝐂𝐡𝐚𝐨𝐬 𝐒𝐚𝐧𝐜𝐭𝐮𝐚𝐫𝐲 (9)|Diablo Seal 1\lDiablo Seal 2\lDiablo Seal 3\lDiablo Seal 4\lDiablo Seal 5\lKill Grand Vizier of Chaos\lKill Lord de Seis\lKill Infector of Souls\lKill Diablo (Quest: Terror's End)\l|{🎯|{Storm Caster 🆕|Oblivion Knight 🆕|Doom Knight|Venom Lord}}}"
+  ]
+
+  pandemonium_fortress -> outer_steppes -> plains_of_despair -> city_of_the_damned -> river_of_flame -> chaos_sanctuary
+
+  legend [
+    labeljust="r"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈V 𝐂𝐡𝐞𝐜𝐤𝐬\n14 total\l\l🎯 = Killsanity (26)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (7)\l"
+  ]
+}
