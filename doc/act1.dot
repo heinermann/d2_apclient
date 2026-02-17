@@ -1,0 +1,128 @@
+digraph G {
+  node [shape=Mrecord]
+
+  rogue_camp [
+    label="{𝐑𝐨𝐠𝐮𝐞 𝐂𝐚𝐦𝐩 (2)|Bring Horadric Malus to Charsi\lBring Scroll of Inifuss to Akara\l}"
+  ]
+
+  blood_moor [
+    label="{𝐁𝐥𝐨𝐨𝐝 𝐌𝐨𝐨𝐫 (0)|{🎯|{Zombie 🆕🌟|Fallen 🆕🌟|Quill Rat 🆕🌟}}}"
+  ]
+
+  den_of_evil [
+    label="{𝐃𝐞𝐧 𝐨𝐟 𝐄𝐯𝐢𝐥 (2)|Kill Corpsefire\lQuest: Den of Evil\l|{🎯|{Zombie|Gargantuan Beast 🆕🌟|Fallen Shaman 🆕🌟|Fallen}}}"
+  ]
+
+  cold_plains [
+    label="{𝐂𝐨𝐥𝐝 𝐏𝐥𝐚𝐢𝐧𝐬 (2)|Cold Plains Waypoint\lKill Bishibosh\l|{🎯|{Gargantuan Beast|Dark Hunter 🆕🌟|Fallen Shaman|Fallen|Dark Spearwoman 🆕🌟}}}"
+  ]
+
+  cave [
+    label="{𝐂𝐚𝐯𝐞 (2)|Kill Coldcrow\lGold Chest (Cave Level 2)\l|{🎯|{Skeleton|Hungry Dead|Dark Ranger🆕🌟|Fallen Shaman|Fallen}}}"
+  ]
+
+  burial_grounds [
+    label="{𝐁𝐮𝐫𝐢𝐚𝐥 𝐆𝐫𝐨𝐮𝐧𝐝𝐬 (1)|Kill Blood Raven (Quest: Sisters' Burial Grounds)\l|{🎯|{Skeleton🆕🌟|Hungry Dead🆕}}}"
+  ]
+
+  crypt [
+    label="{𝐂𝐫𝐲𝐩𝐭 (2)|Gold Chest (Crypt)\lKill Bonebreaker\l|{🎯|{Skeleton|Hungry Dead}}}"
+  ]
+
+  mausoleum [
+    label="{𝐌𝐚𝐮𝐬𝐨𝐥𝐞𝐮𝐦 (1)|Gold Chest (Mausoleum)\l|{🎯|{Skeleton|Hungry Dead}}}"
+  ]
+
+  stony_field [
+    label="{𝐒𝐭𝐨𝐧𝐲 𝐅𝐢𝐞𝐥𝐝 (4)|Stony Field Waypoint\lKill Rakanishu\lActivate Cairn Stones\lInteract with Moldy Tome\l|{🎯|{Skeleton|Hungry Dead|Foul Crow Nest 🆕🌟|Foul Crow 🆕🌟|Moon Clan 🆕🌟|Dark Ranger|Carver 🆕|Fallen Shaman|Fallen}}}"
+  ]
+
+  tristram [
+    label="{𝐓𝐫𝐢𝐬𝐭𝐫𝐚𝐦 (3)|Kill Griswold\lLoot Wirt's Body\lRescue Cain (Quest: The Search for Cain)\l|{🎯|{Returned🆕|Night Clan🆕|Carver Shaman|Carver|Skeleton Archer}}}"
+  ]
+
+  underground_passage [
+    label="{𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐨𝐮𝐧𝐝 𝐏𝐚𝐬𝐬𝐚𝐠𝐞 (1)|Gold Chest (Underground Passage Level 2)\l|{🎯|{Misshapen🆕🌟|Carver|Vile Hunter 🆕|Skeleton Archer 🆕🌟|Fallen Shaman|Fallen}}}"
+  ]
+
+  dark_wood [
+    label="{𝐃𝐚𝐫𝐤 𝐖𝐨𝐨𝐝 (3)|Dark Wood Waypoint\lKill Treehead Woodfist\lInteract with Tree of Inifuss\l|{🎯|{Carver|Vile Hunter|Spike Fiend 🆕|Vile Lancer 🆕|Skeleton Archer|Carver Shaman 🆕}}}"
+  ]
+
+  black_marsh [
+    label="{𝐁𝐥𝐚𝐜𝐤 𝐌𝐚𝐫𝐬𝐡 (2)|Black Marsh Waypoint\lLoot Outdoor Tower Chest\l|{🎯|{Blood Hawk Nest 🆕|Blood Hawk 🆕|Returned|Brute 🆕|Night Clan|Carver Shaman|Carver|Vile Archer 🆕}}}"
+  ]
+
+  hole [
+    label="{𝐇𝐨𝐥𝐞 (1)|Gold Chest (Hole Level 2)\l|{🎯|{Misshapen|Carver|Brute|Vile Archer|Carver Shaman}}}"
+  ]
+
+  forgotten_tower [
+    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐓𝐨𝐰𝐞𝐫 (1)|Kill The Countess (Quest: The Forgotten Tower)\l|{🎯|{Devilkin 🆕|Ghost 🆕🌟|Blood Clan 🆕|Dark Archer 🆕}}}"
+  ]
+
+  tamoe_highland [
+    label="{𝐓𝐚𝐦𝐨𝐞 𝐇𝐢𝐠𝐡𝐥𝐚𝐧𝐝 (0)|{🎯|{Dark Stalker 🆕|Thorn Beast 🆕|Dark Lancer 🆕|Returned Archer 🆕|Returned Mage 🆕🌟|Devilkin|Carver Shaman|Carver}}}"
+  ]
+
+  pit [
+    label="{𝐏𝐢𝐭 (1)|Gold Chest (Pit Level 2)\l|{🎯|{Bone Warrior 🆕|Devilkin|Dark Stalker|Dark Archer|Devilkin Shaman 🆕}}}"
+  ]
+
+  monestary_gate [
+    label="{𝐌𝐨𝐧𝐞𝐬𝐭𝐚𝐫𝐲 𝐆𝐚𝐭𝐞 (1)|Chest (Monestary Gate)\l}"
+  ]
+
+  outer_cloister [
+    label="{𝐎𝐮𝐭𝐞𝐫 𝐂𝐥𝐨𝐢𝐬𝐭𝐞𝐫 (1)|Outer Cloister Waypoint\l|{🎯|{Yeti 🆕|Black Rogue 🆕|Devilkin Shaman|Devilkin|Razor Spine 🆕}}}"
+  ]
+
+  barracks [
+    label="{𝐁𝐚𝐫𝐫𝐚𝐜𝐤𝐬 (2)|Kill The Smith\lInteract with the Forge\l|{🎯|{Black Rogue|Death Clan 🆕|Devilkin Shaman|Devilkin|Bone Archer 🆕|Bone Mage 🆕}}}"
+  ]
+
+  jail [
+    label="{𝐉𝐚𝐢𝐥 (2)|Jail Level 1 Waypoint\lKill Pitspawn Fouldog (Jail Level 2)|{🎯|{Dark One 🆕|Wraith 🆕|Death Clan|Bone Archer|Bone Mage|Gargoyle Trap 🆕🌟}}}"
+  ]
+
+  inner_cloister [
+    label="{𝐈𝐧𝐧𝐞𝐫 𝐂𝐥𝐨𝐢𝐬𝐭𝐞𝐫 (2)|Inner Cloister Waypoint\lLoot Dead Rogue\l|{🎯|{Dark One 🆕|Black Archer 🆕|Bone Mage}}}"
+  ]
+
+  cathedral [
+    label="{𝐂𝐚𝐭𝐡𝐞𝐝𝐫𝐚𝐥 (1)|Kill Bone Ash\l|{🎯|{Tainted 🆕|Wraith|Dark Shaman 🆕|Dark One}}}"
+  ]
+
+  catacombs_lv_1 [
+    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟏 (0)|{🎯|{Tainted|Dark Shaman|Dark One|Rat Man 🆕🌟|Gargoyle Trap}}}"
+  ]
+
+  catacombs_lv_2 [
+    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟐 (1)|Catacombs Level 2 Waypoint\l|{🎯|{Tainted|Dark Shaman|Dark One|Arach 🆕🌟|Gargoyle Trap}}}"
+  ]
+
+  catacombs_lv_3 [
+    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟑 (0)|{🎯|{Ghoul 🆕|Afflicted 🆕|The Banished 🆕🌟|Gargoyle Trap}}}"
+  ]
+
+  catacombs_lv_4 [
+    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟒 (1)|Kill Andariel\l|{🎯|{Ghoul|Afflicted|Dark Shaman|Dark One}}}"
+  ]
+
+  rogue_camp -> blood_moor -> den_of_evil, cold_plains
+  cold_plains -> cave, burial_grounds, stony_field
+  burial_grounds -> crypt, mausoleum
+  stony_field -> tristram [label="🔒🌀"]
+  stony_field -> underground_passage
+  underground_passage -> dark_wood -> black_marsh
+  black_marsh -> hole, forgotten_tower, tamoe_highland
+  tamoe_highland -> pit, monestary_gate
+  monestary_gate -> outer_cloister -> barracks
+  barracks -> jail -> inner_cloister -> cathedral -> catacombs_lv_1 -> catacombs_lv_2 -> catacombs_lv_3 -> catacombs_lv_4
+  tristram -> dark_wood [dir=back, style=dotted, label="logic"]
+
+  legend [
+    labeljust="r"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n🎯 = Killsanity (55)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (20)\l"
+  ]
+}
