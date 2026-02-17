@@ -18,7 +18,7 @@ digraph G {
   ]
 
   great_marsh [
-    label="{𝐆𝐫𝐞𝐚𝐭 𝐌𝐚𝐫𝐬𝐡 (1)|Great Marsh Waypoint\l|{🎯|{Swamp Dweller 🆕🌟|Bog Creature 🆕|Bramble Hulk 🆕|Drowned Carcass 🆕|Fetish Shaman 🆕🌟|Fetish|Gloam 🆕🌟|River Stalker 🆕🌟}}}"
+    label="{𝐆𝐫𝐞𝐚𝐭 𝐌𝐚𝐫𝐬𝐡 (1)|Great Marsh Waypoint\lGold Chest 1 (Great Marsh)\lGold Chest 2 (Great Marsh)\l|{🎯|{Swamp Dweller 🆕🌟|Bog Creature 🆕|Bramble Hulk 🆕|Drowned Carcass 🆕|Fetish Shaman 🆕🌟|Fetish|Gloam 🆕🌟|River Stalker 🆕🌟}}}"
   ]
 
   flayer_jungle [
@@ -42,7 +42,7 @@ digraph G {
   ]
 
   sewers [
-    label="{𝐒𝐞𝐰𝐞𝐫𝐬 (2)|Kill Icehawk Riftwing\lGold Chest (Kurast Sewers)\l|{🎯|{Preserved Dead|Feeder 🆕|Gloombat|Horadrim Ancient 🆕|Horror|Undead Soul Killer|Stygian Watcher 🆕|Blood Wing 🆕|Slime Prince}}}"
+    label="{𝐒𝐞𝐰𝐞𝐫𝐬 (2)|Kill Icehawk Riftwing\lGold Chest (Kurast Sewers Level 1)\lGold Chest (Kurast Sewers Level 2)\l|{🎯|{Preserved Dead|Feeder 🆕|Gloombat|Horadrim Ancient 🆕|Horror|Undead Soul Killer|Stygian Watcher 🆕|Blood Wing 🆕|Slime Prince}}}"
   ]
 
   upper_kurast [
@@ -104,6 +104,6 @@ digraph G {
 
   legend [
     labeljust="r"
-    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐈𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n38 total\l\l🎯 = Killsanity (56)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (9)\l"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐈𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n41 total\l\l🎯 = Killsanity (56)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (9)\l"
   ]
 }
