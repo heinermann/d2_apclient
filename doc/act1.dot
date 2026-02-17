@@ -21,6 +21,10 @@ digraph G {
     label="{𝐂𝐚𝐯𝐞 (2)|Kill Coldcrow\lGold Chest (Cave Level 2)\l|{🎯|{Skeleton|Hungry Dead|Dark Ranger🆕🌟|Fallen Shaman|Fallen}}}"
   ]
 
+  stony_field [
+    label="{𝐒𝐭𝐨𝐧𝐲 𝐅𝐢𝐞𝐥𝐝 (4)|Stony Field Waypoint\lKill Rakanishu\lActivate Cairn Stones\lInteract with Moldy Tome\l|{🎯|{Skeleton|Hungry Dead|Foul Crow Nest 🆕🌟|Foul Crow 🆕🌟|Moon Clan 🆕🌟|Dark Ranger|Carver 🆕|Fallen Shaman|Fallen}}}"
+  ]
+
   burial_grounds [
     label="{𝐁𝐮𝐫𝐢𝐚𝐥 𝐆𝐫𝐨𝐮𝐧𝐝𝐬 (1)|Kill Blood Raven (Quest: Sisters' Burial Grounds)\l|{🎯|{Skeleton🆕🌟|Hungry Dead🆕}}}"
   ]
@@ -31,10 +35,6 @@ digraph G {
 
   mausoleum [
     label="{𝐌𝐚𝐮𝐬𝐨𝐥𝐞𝐮𝐦 (1)|Gold Chest (Mausoleum)\l|{🎯|{Skeleton|Hungry Dead}}}"
-  ]
-
-  stony_field [
-    label="{𝐒𝐭𝐨𝐧𝐲 𝐅𝐢𝐞𝐥𝐝 (4)|Stony Field Waypoint\lKill Rakanishu\lActivate Cairn Stones\lInteract with Moldy Tome\l|{🎯|{Skeleton|Hungry Dead|Foul Crow Nest 🆕🌟|Foul Crow 🆕🌟|Moon Clan 🆕🌟|Dark Ranger|Carver 🆕|Fallen Shaman|Fallen}}}"
   ]
 
   tristram [
@@ -57,12 +57,12 @@ digraph G {
     label="{𝐇𝐨𝐥𝐞 (1)|Gold Chest (Hole Level 2)\l|{🎯|{Misshapen|Carver|Brute|Vile Archer|Carver Shaman}}}"
   ]
 
-  forgotten_tower [
-    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐓𝐨𝐰𝐞𝐫 (1)|Kill The Countess (Quest: The Forgotten Tower)\l|{🎯|{Devilkin 🆕|Ghost 🆕🌟|Blood Clan 🆕|Dark Archer 🆕}}}"
-  ]
-
   tamoe_highland [
     label="{𝐓𝐚𝐦𝐨𝐞 𝐇𝐢𝐠𝐡𝐥𝐚𝐧𝐝 (0)|{🎯|{Dark Stalker 🆕|Thorn Beast 🆕|Dark Lancer 🆕|Returned Archer 🆕|Returned Mage 🆕🌟|Devilkin|Carver Shaman|Carver}}}"
+  ]
+
+  forgotten_tower [
+    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐓𝐨𝐰𝐞𝐫 (1)|Kill The Countess (Quest: The Forgotten Tower)\l|{🎯|{Devilkin 🆕|Ghost 🆕🌟|Blood Clan 🆕|Dark Archer 🆕}}}"
   ]
 
   pit [
@@ -93,23 +93,15 @@ digraph G {
     label="{𝐂𝐚𝐭𝐡𝐞𝐝𝐫𝐚𝐥 (1)|Kill Bone Ash\l|{🎯|{Tainted 🆕|Wraith|Dark Shaman 🆕|Dark One}}}"
   ]
 
-  catacombs_lv_1 [
-    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟏 (0)|{🎯|{Tainted|Dark Shaman|Dark One|Rat Man 🆕🌟|Gargoyle Trap}}}"
+  catacombs [
+    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 (2)|Catacombs Level 2 Waypoint\lKill Andariel\l|{🎯|{Tainted|Dark Shaman|Dark One|Rat Man 🆕🌟|Arach 🆕🌟|Ghoul 🆕|Afflicted 🆕|The Banished 🆕🌟|Gargoyle Trap}}}"
   ]
 
-  catacombs_lv_2 [
-    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟐 (1)|Catacombs Level 2 Waypoint\l|{🎯|{Tainted|Dark Shaman|Dark One|Arach 🆕🌟|Gargoyle Trap}}}"
-  ]
-
-  catacombs_lv_3 [
-    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟑 (0)|{🎯|{Ghoul 🆕|Afflicted 🆕|The Banished 🆕🌟|Gargoyle Trap}}}"
-  ]
-
-  catacombs_lv_4 [
-    label="{𝐂𝐚𝐭𝐚𝐜𝐨𝐦𝐛𝐬 𝐋𝐞𝐯𝐞𝐥 𝟒 (1)|Kill Andariel\l|{🎯|{Ghoul|Afflicted|Dark Shaman|Dark One}}}"
-  ]
-
+  invis1 [style=invis]
+  invis2 [style=invis]
+  
   rogue_camp -> blood_moor -> den_of_evil, cold_plains
+  blood_moor -> invis1 [style=invis]
   cold_plains -> cave, burial_grounds, stony_field
   burial_grounds -> crypt, mausoleum
   stony_field -> tristram [label="🔒🌀"]
@@ -117,12 +109,13 @@ digraph G {
   underground_passage -> dark_wood -> black_marsh
   black_marsh -> hole, forgotten_tower, tamoe_highland
   tamoe_highland -> pit, monestary_gate
+  tamoe_highland -> invis2 [style=invis]
   monestary_gate -> outer_cloister -> barracks
-  barracks -> jail -> inner_cloister -> cathedral -> catacombs_lv_1 -> catacombs_lv_2 -> catacombs_lv_3 -> catacombs_lv_4
-  tristram -> dark_wood [dir=back, style=dotted, label="logic"]
+  barracks -> jail -> inner_cloister -> cathedral -> catacombs
+  tristram -> dark_wood [dir=back, style=dotted, label="logic", constraint=false]
 
   legend [
     labeljust="r"
-    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n🎯 = Killsanity (55)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (20)\l"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n39 total\l\l🎯 = Killsanity (55)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (20)\l"
   ]
 }
