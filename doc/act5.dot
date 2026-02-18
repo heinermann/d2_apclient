@@ -2,7 +2,7 @@ digraph G {
   node [shape=Mrecord]
 
   harrogath [
-    label="{Harrogath}"
+    label="{𝐇𝐚𝐫𝐫𝐨𝐠𝐚𝐭𝐡}"
   ]
 
   nihlathaks_temple [
@@ -120,6 +120,6 @@ digraph G {
 
   legend [
     labeljust="r"
-    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐕 𝐂𝐡𝐞𝐜𝐤𝐬\n37 total\l\l🎯 = Killsanity (53)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (14)\l"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐕 𝐂𝐡𝐞𝐜𝐤𝐬\n37 total\l\l🎯 = Killsanity (53)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (14)\l"
   ]
 }
