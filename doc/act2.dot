@@ -12,6 +12,8 @@ digraph G {
 
   rocky_waste [
     label="{𝐑𝐨𝐜𝐤𝐲 𝐖𝐚𝐬𝐭𝐞 (0)|{🎯|{Sand Leaper 🆕🌟|Huntress|Dung Soldier 🆕🌟|Carrion Bird 🆕🌟|Slinger 🆕🌟}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   sewers [
@@ -48,6 +50,8 @@ digraph G {
 
   valley_of_snakes [
     label="{𝐕𝐚𝐥𝐥𝐞𝐲 𝐨𝐟 𝐒𝐧𝐚𝐤𝐞𝐬 (0)|{🎯|{Fire Tower}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   claw_viper_temple [
@@ -56,6 +60,8 @@ digraph G {
 
   harem [
     label="{𝐇𝐚𝐫𝐞𝐦 (0)|{🎯|{Invader|Dune Beast 🆕🌟|Horror Archer 🆕|Blunderbore 🆕🌟|Horror Mage}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   palace_cellar [
@@ -71,7 +77,11 @@ digraph G {
   ]
 
   tal_rashas_tomb [
-    label="{𝐓𝐚𝐥 𝐑𝐚𝐬𝐡𝐚'𝐬 𝐓𝐨𝐦𝐛 (3)|Kill Ancient Kaa the Soulless (too obscure?)\lKill Duriel\lTalk to Tyrael\l|{🎯|{Apparition 🆕|Steel Scarab|Preserved Dead 🆕|Unraveler 🆕|Burning Dead|Ghoul Lord|Gorebelly 🆕|Mummy Sarcophagus|Dried Corpse|Fire Tower}}}"
+    label="{𝐓𝐚𝐥 𝐑𝐚𝐬𝐡𝐚'𝐬 𝐓𝐨𝐦𝐛 (1)|Kill Ancient Kaa the Soulless (too obscure?)\l|{🎯|{Apparition 🆕|Steel Scarab|Preserved Dead 🆕|Unraveler 🆕|Burning Dead|Ghoul Lord|Gorebelly 🆕|Mummy Sarcophagus|Dried Corpse|Fire Tower}}}"
+  ]
+
+  tal_rashas_chamber [
+    label="{𝐓𝐚𝐥 𝐑𝐚𝐬𝐡𝐚'𝐬 𝐂𝐡𝐚𝐦𝐛𝐞𝐫 (2)|Kill Duriel\lTalk to Tyrael\l}"
   ]
 
   lut_gholein -> sewers, rocky_waste
@@ -87,6 +97,7 @@ digraph G {
   palace_cellar -> arcane_sanctuary [label="🌀"]
   arcane_sanctuary -> canyon_of_the_magi [label="🌀"]
   canyon_of_the_magi -> tal_rashas_tomb
+  tal_rashas_tomb -> tal_rashas_chamber [label="🔒"]
 
   harem -> halls_of_the_dead, maggot_lair, claw_viper_temple  [dir=back, style=dotted, label="logic", constraint=false]
 

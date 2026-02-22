@@ -60,14 +60,14 @@
 <!-- halls_of_anguish -->
 <g id="node3" class="node">
 <title>halls_of_anguish</title>
-<path fill="none" stroke="black" d="M135,-1763.5C135,-1763.5 282,-1763.5 282,-1763.5 288,-1763.5 294,-1769.5 294,-1775.5 294,-1775.5 294,-1820.5 294,-1820.5 294,-1826.5 288,-1832.5 282,-1832.5 282,-1832.5 135,-1832.5 135,-1832.5 129,-1832.5 123,-1826.5 123,-1820.5 123,-1820.5 123,-1775.5 123,-1775.5 123,-1769.5 129,-1763.5 135,-1763.5"/>
-<text text-anchor="middle" x="208.5" y="-1817.3" font-family="Times,serif" font-size="14.00">𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐀𝐧𝐠𝐮𝐢𝐬𝐡 (0)</text>
-<polyline fill="none" stroke="black" points="123,-1809.5 294,-1809.5 "/>
-<text text-anchor="middle" x="144" y="-1782.8" font-family="Times,serif" font-size="14.00">🎯</text>
-<polyline fill="none" stroke="black" points="165,-1763.5 165,-1809.5 "/>
-<text text-anchor="middle" x="229.5" y="-1794.3" font-family="Times,serif" font-size="14.00">Prowling Dead</text>
-<polyline fill="none" stroke="black" points="165,-1786.5 294,-1786.5 "/>
-<text text-anchor="middle" x="229.5" y="-1771.3" font-family="Times,serif" font-size="14.00">Night Lord</text>
+<path fill="none" stroke="#000000" stroke-opacity="0.501961" d="M135,-1763.5C135,-1763.5 282,-1763.5 282,-1763.5 288,-1763.5 294,-1769.5 294,-1775.5 294,-1775.5 294,-1820.5 294,-1820.5 294,-1826.5 288,-1832.5 282,-1832.5 282,-1832.5 135,-1832.5 135,-1832.5 129,-1832.5 123,-1826.5 123,-1820.5 123,-1820.5 123,-1775.5 123,-1775.5 123,-1769.5 129,-1763.5 135,-1763.5"/>
+<text text-anchor="middle" x="208.5" y="-1817.3" font-family="Times,serif" font-size="14.00" fill="#000000" fill-opacity="0.501961">𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐀𝐧𝐠𝐮𝐢𝐬𝐡 (0)</text>
+<polyline fill="none" stroke="#000000" stroke-opacity="0.501961" points="123,-1809.5 294,-1809.5 "/>
+<text text-anchor="middle" x="144" y="-1782.8" font-family="Times,serif" font-size="14.00" fill="#000000" fill-opacity="0.501961">🎯</text>
+<polyline fill="none" stroke="#000000" stroke-opacity="0.501961" points="165,-1763.5 165,-1809.5 "/>
+<text text-anchor="middle" x="229.5" y="-1794.3" font-family="Times,serif" font-size="14.00" fill="#000000" fill-opacity="0.501961">Prowling Dead</text>
+<polyline fill="none" stroke="#000000" stroke-opacity="0.501961" points="165,-1786.5 294,-1786.5 "/>
+<text text-anchor="middle" x="229.5" y="-1771.3" font-family="Times,serif" font-size="14.00" fill="#000000" fill-opacity="0.501961">Night Lord</text>
 </g>
 <!-- nihlathaks_temple&#45;&gt;halls_of_anguish -->
 <g id="edge3" class="edge">
@@ -160,7 +160,7 @@
 <text text-anchor="start" x="391.5" y="-1840.3" font-family="Times,serif" font-size="14.00">Free Barbarian Pen 3 (Quest: Rescue on Mount Arreat)</text>
 <text text-anchor="start" x="391.5" y="-1825.3" font-family="Times,serif" font-size="14.00">Kill Eyeback the Unleashed</text>
 <text text-anchor="start" x="391.5" y="-1810.3" font-family="Times,serif" font-size="14.00">Kill Eldritch the Rectifier</text>
-<text text-anchor="start" x="391.5" y="-1795.3" font-family="Times,serif" font-size="14.00">Kill SHarptooth Slayer</text>
+<text text-anchor="start" x="391.5" y="-1795.3" font-family="Times,serif" font-size="14.00">Kill Sharptooth Slayer</text>
 <polyline fill="none" stroke="black" points="383.5,-1787.5 793.5,-1787.5 "/>
 <text text-anchor="middle" x="451.5" y="-1726.3" font-family="Times,serif" font-size="14.00">🎯</text>
 <polyline fill="none" stroke="black" points="519.5,-1672.5 519.5,-1787.5 "/>

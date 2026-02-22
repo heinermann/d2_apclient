@@ -6,7 +6,7 @@ digraph G {
   ]
 
   blood_moor [
-    label="{𝐁𝐥𝐨𝐨𝐝 𝐌𝐨𝐨𝐫 (0)|{🎯|{Zombie 🆕🌟|Fallen 🆕🌟|Quill Rat 🆕🌟}}}"
+    label="{𝐁𝐥𝐨𝐨𝐝 𝐌𝐨𝐨𝐫 (1)|Speak with Flavie\l|{🎯|{Zombie 🆕🌟|Fallen 🆕🌟|Quill Rat 🆕🌟}}}"
   ]
 
   den_of_evil [
@@ -116,6 +116,6 @@ digraph G {
 
   legend [
     labeljust="r"
-    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n39 total\l\l🎯 = Killsanity (55)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (20)\l"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n40 total\l\l🎯 = Killsanity (55)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (20)\l"
   ]
 }

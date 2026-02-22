@@ -6,7 +6,7 @@ digraph G {
   ]
 
   spider_forest [
-    label="{𝐒𝐩𝐢𝐝𝐞𝐫 𝐅𝐨𝐫𝐞𝐬𝐭 (2)|First unique monster kill (Quest: The Gold Bird)\lSpider Forest Waypoint\l|{🎯|{Jungle Hunter 🆕|Sucker 🆕🌟|Thorned Hulk 🆕🌟|Fetish 🆕|Cloud Stalker 🆕}}}"
+    label="{𝐒𝐩𝐢𝐝𝐞𝐫 𝐅𝐨𝐫𝐞𝐬𝐭 (3)|Encounter the Wanderer\lFirst unique monster kill (Quest: The Gold Bird)\lSpider Forest Waypoint\l|{🎯|{Jungle Hunter 🆕|Sucker 🆕🌟|Thorned Hulk 🆕🌟|Fetish 🆕|Cloud Stalker 🆕}}}"
   ]
 
   arachnid_lair [
@@ -22,7 +22,7 @@ digraph G {
   ]
 
   flayer_jungle [
-    label="{𝐅𝐥𝐚𝐲𝐞𝐫 𝐉𝐮𝐧𝐠𝐥𝐞 (3)|Flayer Jungle Waypoint\lInteract with Gidbinn object\l|Kill Stormtree\l|{🎯|{Flayer 🆕|Flayer Shaman 🆕|Soul Killer 🆕|Soul Killer Shaman 🆕|Winged Nightmare 🆕|Slime Prince 🆕}}}"
+    label="{𝐅𝐥𝐚𝐲𝐞𝐫 𝐉𝐮𝐧𝐠𝐥𝐞 (4)|Flayer Jungle Waypoint\lInteract with Gidbinn object\lKill unique flayer holding Gidbinn\lKill Stormtree\l|{🎯|{Flayer 🆕|Flayer Shaman 🆕|Soul Killer 🆕|Soul Killer Shaman 🆕|Winged Nightmare 🆕|Slime Prince 🆕}}}"
   ]
 
   flayer_dungeon [
@@ -54,23 +54,33 @@ digraph G {
   ]
 
   disused_fane [
-    label="{𝐃𝐢𝐬𝐮𝐬𝐞𝐝 𝐅𝐚𝐧𝐞 (1)|Gold Chest (Disused Fane)\l|{🎯|{Wailing Beast|Flesh Hunter|Spider Magus|Night Lord}}}"
+    label="{𝐃𝐢𝐬𝐮𝐬𝐞𝐝 𝐅𝐚𝐧𝐞 (0)|{🎯|{Wailing Beast|Flesh Hunter|Spider Magus|Night Lord}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   kurast_causeway [
     label="{𝐊𝐮𝐫𝐚𝐬𝐭 𝐂𝐚𝐮𝐬𝐞𝐰𝐚𝐲}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   forgotten_reliquary [
-    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐑𝐞𝐥𝐢𝐪𝐮𝐚𝐫𝐲 (1)|Gold Chest (Forgotten Reliquary)\l|{🎯|{Wailing Beast|Flesh Hunter|Spider Magus|Night Lord}}}"
+    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐑𝐞𝐥𝐢𝐪𝐮𝐚𝐫𝐲 (0)|{🎯|{Wailing Beast|Flesh Hunter|Spider Magus|Night Lord}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   forgotten_temple [
-    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐓𝐞𝐦𝐩𝐥𝐞 (1)|Gold Chest (Forgotten Temple)\l|{🎯|{Serpent Magus 🆕|Bone Scarab 🆕|Blood Diver 🆕|Flesh Archer 🆕}}}"
+    label="{𝐅𝐨𝐫𝐠𝐨𝐭𝐭𝐞𝐧 𝐓𝐞𝐦𝐩𝐥𝐞 (0)|{🎯|{Serpent Magus 🆕|Bone Scarab 🆕|Blood Diver 🆕|Flesh Archer 🆕}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   ruined_fane [
-    label="{𝐑𝐮𝐢𝐧𝐞𝐝 𝐅𝐚𝐧𝐞 (1)|Gold Chest (Ruined Fane)\l|{🎯|{Serpent Magus|Bone Scarab|Blood Diver|Flesh Archer}}}"
+    label="{𝐑𝐮𝐢𝐧𝐞𝐝 𝐅𝐚𝐧𝐞 (0)|{🎯|{Serpent Magus|Bone Scarab|Blood Diver|Flesh Archer}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   travincal [
@@ -78,7 +88,9 @@ digraph G {
   ]
 
   disused_reliquary [
-    label="{𝐃𝐢𝐬𝐮𝐬𝐞𝐝 𝐑𝐞𝐥𝐢𝐪𝐮𝐚𝐫𝐲 (1)|Gold Chest (Disused Reliquary)\l|{🎯|{Serpent Magus|Bone Scarab|Blood Diver|Flesh Archer}}}"
+    label="{𝐃𝐢𝐬𝐮𝐬𝐞𝐝 𝐑𝐞𝐥𝐢𝐪𝐮𝐚𝐫𝐲 (0)|{🎯|{Serpent Magus|Bone Scarab|Blood Diver|Flesh Archer}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   durance_of_hate [
@@ -104,6 +116,6 @@ digraph G {
 
   legend [
     labeljust="r"
-    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐈𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n41 total\l\l🎯 = Killsanity (56)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (9)\l"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐈𝐈 𝐂𝐡𝐞𝐜𝐤𝐬\n38 total\l\l🎯 = Killsanity (56)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (9)\l"
   ]
 }

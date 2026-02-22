@@ -7,6 +7,8 @@ digraph G {
 
   outer_steppes [
     label="{𝐎𝐮𝐭𝐞𝐫 𝐒𝐭𝐞𝐩𝐩𝐞𝐬|{🎯|{Cliff Lurker 🆕|Flesh Spawner 🆕🌟|Flesh Beast 🆕🌟|Doom Caster 🆕🌟|Corpulant 🆕🌟|Doom Knight 🆕🌟|Venom Lord 🆕🌟|Trapped Soul 🆕🌟}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   plains_of_despair [
@@ -18,7 +20,7 @@ digraph G {
   ]
 
   river_of_flame [
-    label="{𝐑𝐢𝐯𝐞𝐫 𝐨𝐟 𝐅𝐥𝐚𝐦𝐞 (3)|Kill Hephasto the Armorer (Quest: Hell's Forge)\lDestroy Mephisto's Soulstone (Quest: Hell's Forge)\lRiver of Flame Waypoint\l|{🎯|{Blood Maggot 🆕|Urdar 🆕|Grotesque 🆕|Grotesque Wyrm 🆕|Strangler|Maw Fiend 🆕|Abyss Knight|Pit Lord}}}"
+    label="{𝐑𝐢𝐯𝐞𝐫 𝐨𝐟 𝐅𝐥𝐚𝐦𝐞 (4)|Kill Hephasto the Armorer (Quest: Hell's Forge)\lDestroy Mephisto's Soulstone (Quest: Hell's Forge)\lRiver of Flame Waypoint\lSpeak with Hadriel\l|{🎯|{Blood Maggot 🆕|Urdar 🆕|Grotesque 🆕|Grotesque Wyrm 🆕|Strangler|Maw Fiend 🆕|Abyss Knight|Pit Lord}}}"
   ]
 
   chaos_sanctuary [
@@ -29,6 +31,6 @@ digraph G {
 
   legend [
     labeljust="r"
-    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐕 𝐂𝐡𝐞𝐜𝐤𝐬\n14 total\l\l🎯 = Killsanity (26)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (7)\l"
+    label="𝐃𝐢𝐚𝐛𝐥𝐨 𝐈𝐈 𝐀𝐫𝐜𝐡𝐢𝐩𝐞𝐥𝐚𝐠𝐨: 𝐀𝐜𝐭 𝐈𝐕 𝐂𝐡𝐞𝐜𝐤𝐬\n15 total\l\l🎯 = Killsanity (26)\l🆕 = First Encounter\l🌟 = First Encounter of Monster Type (Killsanity Lite) (7)\l"
   ]
 }

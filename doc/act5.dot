@@ -11,6 +11,8 @@ digraph G {
 
   halls_of_anguish [
     label="{𝐇𝐚𝐥𝐥𝐬 𝐨𝐟 𝐀𝐧𝐠𝐮𝐢𝐬𝐡 (0)|{🎯|{Prowling Dead|Night Lord}}}"
+    color="#00000080"
+    fontcolor="#00000080"
   ]
 
   halls_of_pain [
@@ -26,7 +28,7 @@ digraph G {
   ]
 
   frigid_highlands [
-    label="{𝐅𝐫𝐢𝐠𝐢𝐝 𝐇𝐢𝐠𝐡𝐥𝐚𝐧𝐝𝐬 (7)|Frigid Highlands Waypoint\lFree Barbarian Pen 1 (Quest: Rescue on Mount Arreat)\lFree Barbarian Pen 2 (Quest: Rescue on Mount Arreat)\lFree Barbarian Pen 3 (Quest: Rescue on Mount Arreat)\lKill Eyeback the Unleashed\lKill Eldritch the Rectifier\lKill SHarptooth Slayer\l|{🎯|{Demon Imp 🆕🌟|Crush Beast 🆕🌟|Demon Rascal 🆕|Catapult|Evil Demon Hut 🆕🌟}}}"
+    label="{𝐅𝐫𝐢𝐠𝐢𝐝 𝐇𝐢𝐠𝐡𝐥𝐚𝐧𝐝𝐬 (7)|Frigid Highlands Waypoint\lFree Barbarian Pen 1 (Quest: Rescue on Mount Arreat)\lFree Barbarian Pen 2 (Quest: Rescue on Mount Arreat)\lFree Barbarian Pen 3 (Quest: Rescue on Mount Arreat)\lKill Eyeback the Unleashed\lKill Eldritch the Rectifier\lKill Sharptooth Slayer\l|{🎯|{Demon Imp 🆕🌟|Crush Beast 🆕🌟|Demon Rascal 🆕|Catapult|Evil Demon Hut 🆕🌟}}}"
   ]
 
   abaddon [
